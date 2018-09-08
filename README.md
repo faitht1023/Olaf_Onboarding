@@ -1,5 +1,4 @@
 # Olaf Onboarding
-🔨 **WIP** 🔨: This is the first time we're trying out this onboarding challenge, so there may be some _minor_ roadblocks along the way
 
 Welcome to Snowbots! This repo is where you'll be working on a onboarding challenge, making our robot Olaf (pictured below), avoid obstacles in the real world! The goal of this is that by the end, you'll be more comfortable working with C++ and ROS, and also be used to our development processes! This challenge will look a little intimidating at first, as we've been intentionally vague in several places, but just **google it or ask us** (that's what we're here for!), and you'll get it figured out.
 
